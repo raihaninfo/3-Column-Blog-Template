@@ -1,0 +1,35 @@
+body {
+	background-color: #E1E6ED;
+	margin: 15px;
+	padding: 20px;
+}
+p {
+	font-size: 16px;
+}
+.menu {
+}
+.menu p {
+	font-size: 14px;
+}
+.left_sidebar{
+	background-color: #F0F4F7;
+
+}
+.copyright-box {
+	text-align: center;
+	margin-top: 30%;
+}
+.copyright-box p {
+	font-size: 30px;
+}
+.main {
+	background-color: #FFFFFF;
+}
+.about-photo {
+	margin-left: 30%;
+}
+.about-text {
+	text-align: center;
+	font-size: 15px;
+	line-height: 24px;
+}
